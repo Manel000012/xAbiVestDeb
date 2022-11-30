@@ -4,8 +4,8 @@
     --colorN: white;
 }
 
-.margin{
-    margin: 100px;
+#margin{
+    margin: 1000px;
 }
 
 html{
@@ -14,4 +14,9 @@ html{
 
 body{
     background-color: var(--color1);
+}
+
+.campo{
+    width: 100%;
+    height: top;
 }
