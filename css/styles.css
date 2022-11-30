@@ -4,6 +4,10 @@
     --colorN: white;
 }
 
+.margin{
+    margin: 100px;
+}
+
 html{
     background-color: var(--color1);
 }
