@@ -1,3 +1,6 @@
+el github o porto jo ( manel )
+
+
 variables
 
 exemple 
