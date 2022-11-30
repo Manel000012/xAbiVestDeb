@@ -11,6 +11,10 @@ exemple
     --colorN: white;
 }
 
+tambe components de bootstrap aqui esta la web
+
+https://getbootstrap.com/docs/5.1/getting-started/introduction/
+
 
 
 
