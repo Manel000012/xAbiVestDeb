@@ -4,12 +4,12 @@
     --colorN: white;
 }
 
-#margin{
-    margin: 1000px;
+body{
+    background-image: url(../img/campo.png);
 }
 
 html{
-    background-color: var(--color1);
+
 }
 
 body{
@@ -18,5 +18,13 @@ body{
 
 .campo{
     width: 100%;
-    height: top;
+}
+
+.madrid{
+
+}
+
+.barça{
+    position: absolute;
+    top: 100px;
 }
