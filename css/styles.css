@@ -7,14 +7,13 @@
 
 body{
     background-image: url(../img/campo.png);
+    background-size: 100%;
 }
 
 
-.madrid{
+.terstegen img{
+    position: relative;
+    top: 250px;
+    width: 150px;
 
-}
-
-.barça{
-    position: absolute;
-    top: 100px;
 }
