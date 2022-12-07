@@ -4,16 +4,19 @@
     --colorN: white;
 }
 
-
-body{
-    background-image: url(../img/campo.png);
-    background-size: 100%;
+#div{
+    position: relative;
+    width: 100%;
 }
 
+#campo{
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+}
 
-.terstegen img{
-    position: relative;
-    top: 250px;
-    width: 150px;
-
+#terstegen{
+    position: absolute;
+    width: 100px;
+    top: 50%;
 }
