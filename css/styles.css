@@ -5,18 +5,27 @@
 }
 
 #div{
-    position: relative;
+    position: absolute;
     width: 100%;
 }
 
 #campo{
-    position: absolute;
+    position: relative;
     width: 100%;
-    z-index: -1;
+    z-index: -2;
 }
 
 #terstegen{
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+#boto{
     position: absolute;
-    width: 100px;
-    top: 50%;
+    padding: 5px;
+    left: 2.5%;
+    bottom: 40%;
+    width: 10%;
+    z-index: 0;
 }
