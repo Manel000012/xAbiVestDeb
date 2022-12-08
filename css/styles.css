@@ -15,19 +15,51 @@
     z-index: -2;
 }
 
+/*Escuts*/
+
+#madrid{
+    width: 100%;
+}
+
+#butonmadrid{
+    position: absolute;
+    top: auto;
+    padding: 5px;
+    left: 52%;
+    bottom: 30;
+    width: 3.4%;
+    z-index: 0;
+}
+
+#barca{
+    width: 100%;
+}
+
+#butonbarca{
+    position: absolute;
+    top: auto;
+    padding: 5px;
+    left: 45%;
+    bottom: 30;
+    width: 4%;
+    z-index: 0;
+}
+
+/*Jugadors*/
+
 #terstegen{
     width: 100%;
     height: 100%;
     z-index: -1;
 }
 
-#button{
+#buttonTerStegen{
     position: absolute;
     top: auto;
     padding: 5px;
-    left: 2.5%;
+    left: 0.5%;
     bottom: 42.5%;
-    width: 10%;
+    width: 8%;
     z-index: 0;
 }
 
@@ -37,11 +69,344 @@
     z-index: -1;
 }
 
-#button1{
+#buttonAraujo{
     position: absolute;
+    top: auto;
     padding: 5px;
-    left: 20.5%;
+    left: 10.5%;
     bottom: 30.5%;
-    width: 7%;
+    width: 8%;
+    z-index: 0;
+}
+
+#Kounde{
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+#buttonKounde{
+    position: absolute;
+    top: auto;
+    padding: 5px;
+    left: 10.5%;
+    bottom: 55%;
+    width: 8%;
+    z-index: 0;
+}
+
+#Balde{
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+#buttonBalde{
+    position: absolute;
+    top: auto;
+    padding: 5px;
+    left: 10.5%;
+    bottom: 80%;
+    width: 8%;
+    z-index: 0;
+}
+
+#JordiAlba{
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+#buttonJordiAlba{
+    position: absolute;
+    top: auto;
+    padding: 5px;
+    left: 10.5%;
+    bottom: 5%;
+    width: 8%;
+    z-index: 0;
+}
+
+#Pedri{
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+#buttonPedri{
+    position: absolute;
+    top: auto;
+    padding: 5px;
+    left: 25%;
+    bottom: 44%;
+    width: 8%;
+    z-index: 0;
+}
+
+#Gavi{
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+#buttonGavi{
+    position: absolute;
+    top: auto;
+    padding: 5px;
+    left: 25.5%;
+    bottom: 17%;
+    width: 8%;
+    z-index: 0;
+}
+
+
+#dejong{
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+#buttondejong{
+    position: absolute;
+    top: auto;
+    padding: 5px;
+    left: 25.5%;
+    bottom: 70%;
+    width: 8%;
+    z-index: 0;
+}
+
+#lewandowski{
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+#buttonlewandowski{
+    position: absolute;
+    top: auto;
+    padding: 5px;
+    left: 40%;
+    bottom: 44%;
+    width: 8%;
+    z-index: 0;
+}
+
+#rafiña{
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+#buttonrafiña{
+    position: absolute;
+    top: auto;
+    padding: 5px;
+    left: 42%;
+    bottom: 10%;
+    width: 8%;
+    z-index: 0;
+}
+
+#usman{
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+#buttonusman{
+    position: absolute;
+    top: auto;
+    padding: 5px;
+    left: 42%;
+    bottom: 80%;
+    width: 8%;
+    z-index: 0;
+}
+
+/* MADRID*/
+
+#curtua{
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+
+#buttoncurtua{
+    position: absolute;
+    top: auto;
+    padding: 5px;
+    left: 92%;
+    bottom: 42.5%;
+    width: 8%;
+    z-index: 0;
+}
+
+
+#rudiger{
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+
+#buttonrudiger{
+    position: absolute;
+    top: auto;
+    padding: 5px;
+    left: 80%;
+    bottom: 30.5%;
+    width: 8%;
+    z-index: 0;
+}
+
+#militao{
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+
+#buttonmilitao{
+    position: absolute;
+    top: auto;
+    padding: 5px;
+    left: 80%;
+    bottom: 55.5%;
+    width: 8%;
+    z-index: 0;
+}
+
+#mendy{
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+
+#buttonmendy{
+    position: absolute;
+    top: auto;
+    padding: 5px;
+    left: 80%;
+    bottom: 1.5%;
+    width: 8%;
+    z-index: 0;
+}
+
+#carvajal{
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+
+#buttoncarvajal{
+    position: absolute;
+    top: auto;
+    padding: 5px;
+    left: 80%;
+    bottom: 80.5%;
+    width: 8%;
+    z-index: 0;
+}
+
+#tchouameni{
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+
+#buttontchouameni{
+    position: absolute;
+    top: auto;
+    padding: 5px;
+    left: 70%;
+    bottom: 43%;
+    width: 8%;
+    z-index: 0;
+}
+
+#fede{
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+
+#buttonfede{
+    position: absolute;
+    top: auto;
+    padding: 5px;
+    left: 63.5%;
+    bottom: 70%;
+    width: 8%;
+    z-index: 0;
+}
+
+#modric{
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+
+#buttonmodric{
+    position: absolute;
+    top: auto;
+    padding: 5px;
+    left: 63.5%;
+    bottom: 20%;
+    width: 8%;
+    z-index: 0;
+}
+
+#rodrygo{
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+#buttonrodrygo{
+    position: absolute;
+    top: auto;
+    padding: 5px;
+    left: 50%;
+    bottom: 80%;
+    width: 8%;
+    z-index: 0;
+}
+
+#benzema{
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+#buttonbenzema{
+    position: absolute;
+    top: auto;
+    padding: 5px;
+    left: 52%;
+    bottom: 43%;
+    width: 8%;
+    z-index: 0;
+}
+
+#vini{
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+#buttonvini{
+    position: absolute;
+    top: auto;
+    padding: 5px;
+    left: 52%;
+    bottom: 9%;
+    width: 10%;
     z-index: 0;
 }
