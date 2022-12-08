@@ -18,7 +18,7 @@
 /*Escuts*/
 
 #madrid{
-    width: 100%;
+    width: 40px;
 }
 
 #butonmadrid{
@@ -26,21 +26,20 @@
     top: auto;
     padding: 5px;
     left: 52%;
-    bottom: 30;
+    bottom: 8px;
     width: 3.4%;
     z-index: 0;
 }
 
 #barca{
-    width: 100%;
+    width: 50px;
 }
 
 #butonbarca{
     position: absolute;
     top: auto;
     padding: 5px;
-    left: 45%;
-    bottom: 30;
+    left: 42.5%;
     width: 4%;
     z-index: 0;
 }
