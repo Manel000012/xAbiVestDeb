@@ -1,94 +1,88 @@
 var popover = new bootstrap.Popover(document.querySelector('.terestegen'), {
-  container: 'body'
+  trigger: 'focus'
 })
 
 var popover = new bootstrap.Popover(document.querySelector('.araujo'), {
-  container: 'body'
+  trigger: 'focus'
 })
 
 var popover = new bootstrap.Popover(document.querySelector('.Kounde'), {
-  container: 'body'
+  trigger: 'focus'
 })
 
 var popover = new bootstrap.Popover(document.querySelector('.Balde'), {
-  container: 'body'
+  trigger: 'focus'
 })
 
 var popover = new bootstrap.Popover(document.querySelector('.JordiAlba'), {
-  container: 'body'
+  trigger: 'focus'
 })
 
 var popover = new bootstrap.Popover(document.querySelector('.Pedri'), {
-  container: 'body'
+  trigger: 'focus'
 })
 
 var popover = new bootstrap.Popover(document.querySelector('.Gavi'), {
-  container: 'body'
+  trigger: 'focus'
 })
 
 var popover = new bootstrap.Popover(document.querySelector('.dejong'), {
-  container: 'body'
+  trigger: 'focus'
 })
 
 var popover = new bootstrap.Popover(document.querySelector('.lewandowski'), {
-  container: 'body'
+  trigger: 'focus'
 })
 
 var popover = new bootstrap.Popover(document.querySelector('.rafiña'), {
-  container: 'body'
+  trigger: 'focus'
 })
 
 var popover = new bootstrap.Popover(document.querySelector('.usman'), {
-  container: 'body'
+  trigger: 'focus'
 })
 //Madrid//
 var popover = new bootstrap.Popover(document.querySelector('.curtua'), {
-  container: 'body'
+  trigger: 'focus'
 })
 
 var popover = new bootstrap.Popover(document.querySelector('.militao'), {
-  container: 'body'
+  trigger: 'focus'
 })
 
 var popover = new bootstrap.Popover(document.querySelector('.rudiger'), {
-  container: 'body'
+  trigger: 'focus'
 })
 
 var popover = new bootstrap.Popover(document.querySelector('.mendy'), {
-  container: 'body'
+  trigger: 'focus'
 })
 
 var popover = new bootstrap.Popover(document.querySelector('.carvajal'), {
-  container: 'body'
+  trigger: 'focus'
 })
 
 var popover = new bootstrap.Popover(document.querySelector('.tchouameni'), {
-  container: 'body'
+  trigger: 'focus'
 })
 
 
 var popover = new bootstrap.Popover(document.querySelector('.fede'), {
-  container: 'body'
+  trigger: 'focus'
 })
 
 var popover = new bootstrap.Popover(document.querySelector('.modric'), {
-  container: 'body'
+  trigger: 'focus'
 })
 
 var popover = new bootstrap.Popover(document.querySelector('.rodrygo'), {
-  container: 'body'
+  trigger: 'focus'
 })
 
 var popover = new bootstrap.Popover(document.querySelector('.benzema'), {
-  container: 'body'
+  trigger: 'focus'
 
 })
 var popover = new bootstrap.Popover(document.querySelector('.vini'), {
-  container: 'body'
+  trigger: 'focus'
 })
-
-
-
-
-
-  
