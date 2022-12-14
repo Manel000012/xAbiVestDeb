@@ -414,11 +414,22 @@
     z-index: 0;
 }
 
-.siu{
+.principis{
     text-align: center;
     font-size: 70px;
 }
 
-content{
+.content{
     text-align: center;
+    font-size: 30px;
+}
+
+.principis img{
+    width: 100px;
+}
+
+.titols h1{
+    margin: 30px;
+    text-align: center;
+    font-size: 65px;
 }
