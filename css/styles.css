@@ -15,6 +15,10 @@
     z-index: -2;
 }
 
+*{
+    font-family: url("../fontana/Akira Expanded Demo.otf");
+}
+
 /*Escuts*/
 
 #madrid{
@@ -408,4 +412,13 @@
     bottom: 9%;
     width: 10%;
     z-index: 0;
+}
+
+.siu{
+    text-align: center;
+    font-size: 70px;
+}
+
+content{
+    text-align: center;
 }
