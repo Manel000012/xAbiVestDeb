@@ -434,3 +434,31 @@ footer{
     bottom: -950px;
     margin: 10px;
 }
+footer img{
+    width: 200px;
+}
+
+footer h6{
+    text-align: right;
+}
+
+
+/*Titols Barça*/
+
+.titols h1{
+    text-align: center;
+    margin: 50px;
+}
+
+.champions img{
+    width: 100px;
+}
+
+.lliga img{
+    width: 70px;
+}
+
+.coparey img{
+    width: 70px;
+}
+
