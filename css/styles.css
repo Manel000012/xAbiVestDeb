@@ -5,7 +5,7 @@
 }
 
 #div{
-    position: absolute;
+    position: relative;
     width: 100%;
 }
 
@@ -431,6 +431,6 @@ nav{
 footer{
     background-color: #ffc107;
     position: relative;
-    bottom: -950px;
+    bottom: 0px;
     margin: 10px;
 }
