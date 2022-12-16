@@ -443,7 +443,7 @@ footer h6{
 }
 
 
-/*Titols Barça*/
+/*Titols Barça- barça*/
 
 .titols h1{
     text-align: center;
@@ -462,3 +462,21 @@ footer h6{
     width: 70px;
 }
 
+.estadi{
+    margin: 30px;
+    text-align: center;
+}
+
+.estadi img{
+    border: solid;
+    border-width: 10px;
+}
+
+.estadi h3 img{
+    width: 50px;
+    border: none;
+}
+
+.video{
+    text-align: center;
+}
